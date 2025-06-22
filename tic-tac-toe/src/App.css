@@ -14,7 +14,6 @@
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
 }
-
 body {
   margin: 0;
   display: flex;
@@ -127,4 +126,15 @@ body {
   place-items: center;
   cursor: pointer;
   font-size: 48px;
+}
+
+#button-setTheme{
+  max-width: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+#container-Buttos-setTheme-restart{
+  display: flex;
+  justify-content: center;
 }
